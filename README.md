@@ -1,6 +1,6 @@
-### Hi there 👋
+### ReadMe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudejr&langs_count=8)](https://github.com/rudejr/github-readme-stats)
-
+[![Solved.ac/profile/g_de0k](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 <!--
 **rudejr/rudejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
