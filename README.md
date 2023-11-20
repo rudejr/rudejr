@@ -1,14 +1,8 @@
 ### ReadMe
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudejr&langs_count=8)](https://github.com/rudejr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudejr&layout=compact)](https://github.com/rudejr/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=g_de0k)](https://solved.ac/g_de0k)
 
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
-
-pip install -r requirements.txt
-python manage.py runserver # 서버 실행
 <!--
 **rudejr/rudejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
