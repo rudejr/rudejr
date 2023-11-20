@@ -1,6 +1,7 @@
 ### ReadMe 작성 중..! 🌱
 
-<img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=React&logoColor=white"/>
 
 <!-- 사용한 언어 통계 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudejr&layout=compact)](https://github.com/rudejr/github-readme-stats)
